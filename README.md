@@ -1,5 +1,7 @@
+![Free Valuator](https://www.freevaluator.com/images/logo_small.png)
+
 # API-examples
-Here are some simple PHP examples for how to use the Free Valuator API.
+Here are some simple PHP examples for how to use the [Free Valuator](https://www.freevaluator.com) API.
 
 ## Get API credentials
 
